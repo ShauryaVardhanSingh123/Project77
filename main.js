@@ -1,0 +1,14 @@
+var first_name = "Shaurya";
+var last_name = "Singh";
+var a = 10;
+var b = 5;
+var c1 = a + "+" + b + "=" + "15";
+var c2 = a + "-" + b + "=" + "5";
+var c3 = a + "x" + b + "=" + a * b;
+var c4 = a + "/" + b + "=" + a / b;
+console.log("My first console project :)");
+console.log(first_name.concat(" "+last_name));
+console.log(c1);
+console.log(c2);
+console.log(c3);
+console.log(c4);
